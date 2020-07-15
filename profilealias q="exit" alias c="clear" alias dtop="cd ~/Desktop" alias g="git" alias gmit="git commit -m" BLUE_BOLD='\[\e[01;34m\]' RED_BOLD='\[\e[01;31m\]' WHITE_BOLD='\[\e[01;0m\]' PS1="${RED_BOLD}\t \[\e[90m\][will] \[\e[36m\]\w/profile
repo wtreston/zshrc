@@ -1,0 +1,10 @@
+alias q="exit"
+alias c="clear"
+alias dtop="cd ~/Desktop"
+alias g="git"
+alias gmit="git commit -m"
+BLUE_BOLD='\[\e[01;34m\]'
+RED_BOLD='\[\e[01;31m\]'
+WHITE_BOLD='\[\e[01;0m\]'
+PS1="${RED_BOLD}\t \[\e[90m\][will] \[\e[36m\]\w/ \[\e[31m\]-> \[\e[0m\]"
+export GREP_OPTIONS=' — color=auto'

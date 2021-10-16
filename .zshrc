@@ -1,13 +1,14 @@
 alias q="exit"
 alias c="clear"
 alias dtop="cd ~/Desktop"
-alias velox="cd ~/Desktop/projects/velox"
+
 alias g="git"
 alias gmit="git commit"
 alias gs="git status"
 alias gb="git branch"
 alias gp="git push"
-alias gc="git clone"https://github.com/wtreston/zshrc
+alias gc="git clone"
+
 alias dir="pwd"
 alias ..="cd .."
 alias ..2="cd ../.."
